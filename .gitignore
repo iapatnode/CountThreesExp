@@ -1,0 +1,15 @@
+#VS Code Directory
+.vs/OpenMPExperiment
+
+#VS Code Build Results
+Debug
+OpenMPExperiment/Debug
+MonteCarloSimulation
+
+#VS Solution File
+OpenMPExperiment.sln
+
+#VS Files
+/OpenMPExperiment/OpenMPExperiment.vcxproj
+/OpenMPExperiment/OpenMPExperiment.vcxproj.filters
+/OpenMPExperiment/OpenMPExperiment.vcxproj.user
